@@ -1,0 +1,10 @@
+# Python / Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Datasets & Training Artifacts
+data/
+*.pth
+*.pt
+*.csv
